@@ -4,3 +4,10 @@ c:\users\venkatesh_muchetty\documents\visual studio 2012\Projects\RuleTestEngine
 c:\users\venkatesh_muchetty\documents\visual studio 2012\Projects\RuleTestEngine\RuleTestEngine\obj\Debug\RuleTestEngine.exe
 c:\users\venkatesh_muchetty\documents\visual studio 2012\Projects\RuleTestEngine\RuleTestEngine\obj\Debug\RuleTestEngine.pdb
 C:\Users\VENKATESH_MUCHETTY\Documents\Visual Studio 2012\Projects\RuleTestEngine\RuleTestEngine\obj\Debug\RuleTestEngine.csprojResolveAssemblyReference.cache
+E:\Narayana\Practice\ConsoleApps\RuleEngine\RuleTestEngine\bin\Debug\RuleTestEngine.exe.config
+E:\Narayana\Practice\ConsoleApps\RuleEngine\RuleTestEngine\bin\Debug\RuleTestEngine.exe
+E:\Narayana\Practice\ConsoleApps\RuleEngine\RuleTestEngine\bin\Debug\RuleTestEngine.pdb
+E:\Narayana\Practice\ConsoleApps\RuleEngine\RuleTestEngine\obj\Debug\RuleTestEngine.csprojResolveAssemblyReference.cache
+E:\Narayana\Practice\ConsoleApps\RuleEngine\RuleTestEngine\obj\Debug\RuleTestEngine.csproj.CoreCompileInputs.cache
+E:\Narayana\Practice\ConsoleApps\RuleEngine\RuleTestEngine\obj\Debug\RuleTestEngine.exe
+E:\Narayana\Practice\ConsoleApps\RuleEngine\RuleTestEngine\obj\Debug\RuleTestEngine.pdb
